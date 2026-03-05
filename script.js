@@ -272,5 +272,4 @@ window.addEventListener('load', () => {
 // ========================================
 
 console.log('%cLUMIÈRE', 'font-size: 40px; font-weight: bold; background: linear-gradient(135deg, #D4AF37 0%, #FFE4E9 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;');
-console.log('%c本サイトは架空のブランドを使用したポートフォリオ作品です。', 'font-size: 14px; color: #666;');
-console.log('%c実在の企業・商品とは一切関係ありません。', 'font-size: 14px; color: #666;');
+console.log('%cCosmetic Brand Landing Page', 'font-size: 14px; color: #666;');

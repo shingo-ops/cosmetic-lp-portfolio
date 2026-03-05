@@ -53,22 +53,6 @@ body {
 }
 
 /* ========================================
-   Practice Notice
-======================================== */
-
-.practice-notice {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    color: white;
-    text-align: center;
-    padding: var(--spacing-xs) var(--spacing-sm);
-    font-size: 0.9rem;
-    position: sticky;
-    top: 0;
-    z-index: 1000;
-    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-}
-
-/* ========================================
    Header
 ======================================== */
 
@@ -663,12 +647,6 @@ section {
     text-align: center;
     font-size: 0.9rem;
     opacity: 0.7;
-}
-
-.footer-practice-note {
-    margin-top: var(--spacing-xs);
-    font-size: 0.85rem;
-    opacity: 0.6;
 }
 
 /* ========================================
