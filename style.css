@@ -172,6 +172,7 @@ body {
 
 .hero-text {
     animation: fadeInUp 1s ease;
+    text-align: center;
 }
 
 .hero-title-sub {
