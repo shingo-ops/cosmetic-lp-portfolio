@@ -1,9 +1,16 @@
 # LUMIÈRE - 化粧品ブランドLP（ポートフォリオ作品）
 
+**公開URL**: https://shingo-ops.github.io/cosmetic-lp-portfolio/
+
 ## プロジェクト概要
 
 本サイトは、架空の化粧品ブランド「LUMIÈRE（ルミエール）」のランディングページです。
 **ポートフォリオ作品として制作されており、実在の企業・商品とは一切関係ありません。**
+
+### リンク
+
+- **ライブデモ**: https://shingo-ops.github.io/cosmetic-lp-portfolio/
+- **GitHubリポジトリ**: https://github.com/shingo-ops/cosmetic-lp-portfolio
 
 ### コンセプト
 
