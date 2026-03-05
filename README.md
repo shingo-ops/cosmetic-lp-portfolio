@@ -1,20 +1,19 @@
-# LUMIÈRE - 化粧品ブランドLP（ポートフォリオ作品）
+# LUMIÈRE - Cosmetic Brand Landing Page
 
-**公開URL**: https://shingo-ops.github.io/cosmetic-lp-portfolio/
+**Live Demo**: https://shingo-ops.github.io/cosmetic-lp-portfolio/
 
-## プロジェクト概要
+## Project Overview
 
-本サイトは、架空の化粧品ブランド「LUMIÈRE（ルミエール）」のランディングページです。
-**ポートフォリオ作品として制作されており、実在の企業・商品とは一切関係ありません。**
+A modern landing page design for LUMIÈRE, a cosmetic brand focused on natural beauty enhancement.
 
-### リンク
+### Links
 
-- **ライブデモ**: https://shingo-ops.github.io/cosmetic-lp-portfolio/
-- **GitHubリポジトリ**: https://github.com/shingo-ops/cosmetic-lp-portfolio
+- **Live Demo**: https://shingo-ops.github.io/cosmetic-lp-portfolio/
+- **GitHub Repository**: https://github.com/shingo-ops/cosmetic-lp-portfolio
 
-### コンセプト
+### Concept
 
-「自然な輝きで、本来の美しさを引き出す」をテーマにした化粧品ブランドのLPをデザインしました。
+Designed with the theme "Discover Your Natural Beauty" - bringing out the inherent beauty through natural radiance.
 
 ## 技術スタック
 
@@ -152,33 +151,20 @@ python3 -m http.server 8000
 ### フォントの変更
 Google Fontsを使用しています。`index.html` のheadセクションで変更可能です。
 
-## 法的注意事項
+## Features
 
-本サイトは以下の目的で作成されました：
-- ✅ ポートフォリオ作品としての展示
-- ✅ Web制作スキルのデモンストレーション
-- ✅ 架空ブランドを使用した練習プロジェクト
+Built with modern web technologies:
+- Responsive design for all devices
+- Smooth scroll animations
+- Interactive hover effects
+- Performance optimized
 
-以下は含まれていません：
-- ❌ 実在の企業・ブランドの模倣
-- ❌ 商標権・著作権の侵害
-- ❌ 実際の商品販売
+## License
 
-## ライセンス
+MIT License - Free to use and modify for your own projects.
 
-このプロジェクトはポートフォリオ用のサンプルコードです。
-自由にカスタマイズ・改変してご使用ください。
+## Design References
 
-## 作成者
-
-ポートフォリオ作品として制作
-
-## 参考にしたデザインパターン
-
-- 一般的な化粧品LPのレイアウトパターン
-- モダンなWebデザインのベストプラクティス
-- ユーザーエクスペリエンスを重視した構成
-
----
-
-**免責事項**: このサイトは架空のブランドを使用したポートフォリオ作品です。実在の企業・商品とは一切関係ありません。
+- Modern cosmetic brand landing page patterns
+- Contemporary web design best practices
+- User experience focused layout
